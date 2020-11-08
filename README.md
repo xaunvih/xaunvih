@@ -1,5 +1,7 @@
 ### Hi there 👋 ☘️☘️☘️
 
+![Alt text](EC6EB153-1F52-4E2E-8717-CD0301BDB40F_1_201_a.jpeg?raw=true)
+
 ----
 
 **Languages and Tools:**  
