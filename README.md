@@ -1,3 +1,3 @@
 ### Hello Dude
 
-Medium: https://xaunvih.medium.com/
+My Medium: https://xaunvih.medium.com/
