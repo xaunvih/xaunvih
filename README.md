@@ -3,7 +3,7 @@
 Welcome to my GitHub profile. I'm a frontend eveloper, technology entusiast.
 
 - 🌱 I’m currently exploring new things in technology.
-- 🥅 Goals: Explore and share interesting things about technoloies
+- 🥅 Goals: Explore and share interesting things about technologies
 
 ### 📕 Latest Blog Posts on Medium
 
