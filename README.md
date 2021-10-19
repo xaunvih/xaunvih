@@ -1,6 +1,6 @@
 ### Hello Dude
 
-Welcome to my GitHub profile. I'm a frontend eveloper. I’m currently exploring new things in technology. 
+Welcome to my GitHub profile.
 
 
 ### 📕 My Medium: [https://xaunvih.medium.com/](https://xaunvih.medium.com/)
